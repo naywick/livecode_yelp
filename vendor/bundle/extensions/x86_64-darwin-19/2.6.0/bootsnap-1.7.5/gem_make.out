@@ -1,0 +1,15 @@
+current directory: /Users/nayelawickramasuriya/code/le-wagon-teaching/livecode/rails-yelp-mvp/vendor/bundle/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/nayelawickramasuriya/.rbenv/versions/2.6.3/bin/ruby -I /Users/nayelawickramasuriya/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210717-29935-11hed0r.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nayelawickramasuriya/code/le-wagon-teaching/livecode/rails-yelp-mvp/vendor/bundle/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/nayelawickramasuriya/code/le-wagon-teaching/livecode/rails-yelp-mvp/vendor/bundle/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nayelawickramasuriya/code/le-wagon-teaching/livecode/rails-yelp-mvp/vendor/bundle/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210717-29935-xli94c/bootsnap
